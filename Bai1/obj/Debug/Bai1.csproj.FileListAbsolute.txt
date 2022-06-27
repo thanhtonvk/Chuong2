@@ -1,0 +1,7 @@
+D:\C#\Console\Chuong2\Bai1\bin\Debug\Bai1.exe
+D:\C#\Console\Chuong2\Bai1\bin\Debug\Bai1.pdb
+D:\C#\Console\Chuong2\Bai1\obj\Debug\Bai1.csproj.AssemblyReference.cache
+D:\C#\Console\Chuong2\Bai1\obj\Debug\Bai1.csproj.SuggestedBindingRedirects.cache
+D:\C#\Console\Chuong2\Bai1\obj\Debug\Bai1.csproj.CoreCompileInputs.cache
+D:\C#\Console\Chuong2\Bai1\obj\Debug\Bai1.exe
+D:\C#\Console\Chuong2\Bai1\obj\Debug\Bai1.pdb
