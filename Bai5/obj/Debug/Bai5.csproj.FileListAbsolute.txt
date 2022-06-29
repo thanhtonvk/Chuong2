@@ -1,0 +1,7 @@
+D:\C#\Console\Chuong2\Bai5\bin\Debug\Bai5.exe
+D:\C#\Console\Chuong2\Bai5\bin\Debug\Bai5.pdb
+D:\C#\Console\Chuong2\Bai5\obj\Debug\Bai5.csproj.AssemblyReference.cache
+D:\C#\Console\Chuong2\Bai5\obj\Debug\Bai5.csproj.SuggestedBindingRedirects.cache
+D:\C#\Console\Chuong2\Bai5\obj\Debug\Bai5.csproj.CoreCompileInputs.cache
+D:\C#\Console\Chuong2\Bai5\obj\Debug\Bai5.exe
+D:\C#\Console\Chuong2\Bai5\obj\Debug\Bai5.pdb

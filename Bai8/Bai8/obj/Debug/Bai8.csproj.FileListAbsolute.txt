@@ -1,0 +1,7 @@
+D:\C#\Console\Chuong2\Bai8\Bai8\bin\Debug\Bai8.exe
+D:\C#\Console\Chuong2\Bai8\Bai8\bin\Debug\Bai8.pdb
+D:\C#\Console\Chuong2\Bai8\Bai8\obj\Debug\Bai8.csproj.AssemblyReference.cache
+D:\C#\Console\Chuong2\Bai8\Bai8\obj\Debug\Bai8.csproj.SuggestedBindingRedirects.cache
+D:\C#\Console\Chuong2\Bai8\Bai8\obj\Debug\Bai8.csproj.CoreCompileInputs.cache
+D:\C#\Console\Chuong2\Bai8\Bai8\obj\Debug\Bai8.exe
+D:\C#\Console\Chuong2\Bai8\Bai8\obj\Debug\Bai8.pdb
